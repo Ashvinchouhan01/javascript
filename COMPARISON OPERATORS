@@ -1,0 +1,24 @@
+let a=29;
+let b=1;
+console.log("a==b",a==b);
+console.log("a!=b",a!=b);
+
+
+let a=29;
+let b="29";
+console.log("a===b",a===b);
+console.log("a!==b",a!==b);
+
+
+let a=29;
+let b=5;
+console.log("a>b",a>b);
+console.log("a<b",a<b);
+
+
+let a=5;
+let b=5;
+console.log("a>=b",a>=b);
+console.log("a<=b",a<=b);
+
+
